@@ -1,0 +1,11 @@
+pandas
+sklearn
+numpy
+matplotlib
+seaborn
+xgboost==2.0.0
+lightgbm==4.1.0
+catboost==1.2.2
+tensorflow==2.14.0
+stockstats==0.6.2
+yfinance==0.2.32
